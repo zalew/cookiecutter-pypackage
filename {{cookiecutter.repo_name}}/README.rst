@@ -14,8 +14,14 @@
 
 {{ cookiecutter.project_short_description}}
 
-* Free software: BSD license
-* Documentation: http://{{ cookiecutter.repo_name }}.rtfd.org.
+
+* PyPI: https://pypi.python.org/pypi/{{ cookiecutter.repo_name }}/
+* GitHub: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/
+* BitBucket: https://bitbucket.org/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/
+
+* Docs: http://{{ cookiecutter.repo_name }}.rtfd.org
+* Issues: https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.repo_name }}/issues 
+* License: BSD license
 
 Features
 --------
